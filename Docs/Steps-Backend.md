@@ -9,7 +9,7 @@
 ###  Step 6. [Github Setup](Github.md)
 ---
 ###  Step 7. [User Interface](userInterface.md)
-###  Step 8. [Github Setup](Github.md)
+###  Step 8. [User Model](UserModel.md)
 ###  Step 9. [Github Setup](Github.md)
 ###  Step 10. [Github Setup](Github.md)
 ###  Step 11. [Github Setup](Github.md)
