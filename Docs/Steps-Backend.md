@@ -7,3 +7,9 @@
 ###  Step 4. [.env Setup](envSetup.md)
 ###  Step 5. [env.ts Setup](typescript-env-doc-fullcode-first.md)
 ###  Step 6. [Github Setup](Github.md)
+---
+###  Step 7. [User Interface](userInterface.md)
+###  Step 8. [Github Setup](Github.md)
+###  Step 9. [Github Setup](Github.md)
+###  Step 10. [Github Setup](Github.md)
+###  Step 11. [Github Setup](Github.md)
