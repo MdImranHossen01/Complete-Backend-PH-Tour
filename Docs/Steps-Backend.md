@@ -6,3 +6,4 @@
 ###  Step 3. [Eslint Setup](Eslint.md)
 ###  Step 4. [.env Setup](envSetup.md)
 ###  Step 5. [env.ts Setup](typescript-env-doc-fullcode-first.md)
+###  Step 6. [Github Setup](Github.md)
