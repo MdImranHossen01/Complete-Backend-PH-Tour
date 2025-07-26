@@ -13,4 +13,12 @@
 ###  Step 8. [User Model](UserModel.md)
 ###  Step 9. [User Controller](user.controller.md)
 ###  Step 10. [User Router and Error Handaling](user.router.md)
-###  Step 11. [Github Setup](Github.md)
+---
+# Zod, jwt email password based custom auth setup [Module:27](https://web.programming-hero.com/level2-batch-5/video/level2-batch-5-27-1-create-zod-validation-for-user-apis)
+
+###  Step 11. [zod-jwt-email-password-authentication](zod-jwt-email-password-authentication.md)
+
+# Refresh Token-Google Auth [Module 28](https://web.programming-hero.com/level2-batch-5/video/level2-batch-5-28-1-create-refresh-token-when-login-and-sent-it-to-client)
+
+###  Step 12. [Refresh Token](Refresh-Token-Google-Auth.md)
+###  Step 12. [Google Login](Google.md)
