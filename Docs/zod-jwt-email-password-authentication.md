@@ -342,7 +342,7 @@ export const UserServices = {
 }
 ```
 
-### Update `user.interface.ts`
+### Update `user.interface.ts` ***Bug***
 
 ```ts
 import { Types } from "mongoose";
