@@ -8,11 +8,11 @@
 ###  Step 5. [env.ts Setup](typescript-env-doc-fullcode-first.md)
 ###  Step 6. [Github Setup](Github.md)
 ---
-# Complete package for Error Handaling and User handaling [Module:26](https://web.programming-hero.com/level2-batch-5/post/level2-batch-5-text-instruction-module-26)
+# Complete package for Error Handling and User handling [Module:26](https://web.programming-hero.com/level2-batch-5/post/level2-batch-5-text-instruction-module-26)
 ###  Step 7. [User Interface](userInterface.md)
 ###  Step 8. [User Model](UserModel.md)
 ###  Step 9. [User Controller](user.controller.md)
-###  Step 10. [User Router and Error Handaling](user.router.md)
+###  Step 10. [User Router and Error Handling](user.router.md)
 ---
 # Zod, jwt email password based custom auth setup [Module:27](https://web.programming-hero.com/level2-batch-5/video/level2-batch-5-27-1-create-zod-validation-for-user-apis)
 
@@ -31,5 +31,5 @@
 
 # All Common task implemented within step 14
 
-# Variable Task start from Step 15
-###  Step 15. [Division Module](DivisionModule.md)
+# Variable Task start from Step 15 [Module 29.9-30.12](https://web.programming-hero.com/level2-batch-5/video/level2-batch-5-30-1-create-slug-during-create-and-update-of-division-and-tour)
+##  Step 15. [Division and tour-Pagination, filter, short, search features ](DivisionModule.md) 
