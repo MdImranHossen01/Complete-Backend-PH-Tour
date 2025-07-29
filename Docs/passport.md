@@ -203,7 +203,7 @@ export const AuthServices = {
 }
 ```
 
-### Update `/globalErrorHandler.ts` at `src/app/modules/auth/auth.controller.ts`
+### Update `auth.controller.ts` at `src/app/modules/auth/auth.controller.ts`
 
 ```ts
 /* eslint-disable @typescript-eslint/no-explicit-any */
@@ -374,7 +374,7 @@ export const AuthControllers = {
 }
 ```
 
-### Update `auth.controller.ts` at `src/app/middlewares/globalErrorHandler.ts`
+### Update `globalErrorHandler.ts` at `src/app/middlewares/globalErrorHandler.ts`
 
 ```ts
 /* eslint-disable @typescript-eslint/no-unused-vars */
